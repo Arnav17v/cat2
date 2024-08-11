@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="max-w-[88rem] px-3 py-10 m-auto ">
           <div className="text-8xl font-semibold ">C⚠️T Inspect</div>
           <div className="text-gray-600">
-            Contact us:<br></br> 911
+            Contact us:<br></br> 98764189
           </div>
         </div>
       </div>

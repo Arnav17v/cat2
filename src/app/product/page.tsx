@@ -16,9 +16,11 @@ export default function Product() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <div className="w-full max-w-md mx-auto bg-white shadow-lg rounded-lg p-6">
-        <button className="w-full bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
-          <a href="./">home</a>
-        </button>
+        <a href="./">
+          <button className="w-full bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
+            home
+          </button>
+        </a>
         <h1 className="text-2xl text-black font-bold text-center mb-4">
           Open Inspection Data
         </h1>

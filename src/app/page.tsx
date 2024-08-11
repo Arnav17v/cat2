@@ -92,7 +92,7 @@ export default function Home() {
             action
           </div>
           <div className="flex gap-2 mt-8">
-            <a href="./">
+            <a href="./product">
               <button className="btn-shine btn">
                 <span>Start Demo</span>
               </button>
